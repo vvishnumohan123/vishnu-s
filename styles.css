@@ -1,0 +1,19 @@
+body{
+	background: #D3D3D3;
+
+}
+h1,h3{
+	font-family: sans-serif;
+}
+
+
+div{
+ width: 500px;
+	margin: auto;
+}
+
+.para{
+	text-align: center;
+	border: 1px solid white;
+
+}
